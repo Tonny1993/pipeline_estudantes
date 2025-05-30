@@ -34,6 +34,7 @@ Algoritmo utilizado: Random Forest Classifier
 Acurácia: 74.84%
 
 Matriz de confusão
+
 ![image](https://github.com/user-attachments/assets/07dc6738-1099-4910-acdf-1d12c9ee942c)
 
 
