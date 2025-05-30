@@ -5,7 +5,7 @@ Este repositório apresenta um pipeline completo de aprendizado de máquina para
 
 ### 📥 Carregamento de Dados
 
-Dataset contendo 5.820 registros de avaliações estudantis.
+Dataset com 5.820 registros de avaliações de alunos da Turquia.
 
 ### 📊 Análise Exploratória
 
@@ -27,13 +27,15 @@ Teste: 20%
 
 ### 🤖 Treinamento do Modelo
 
-Algoritmo: Random Forest Classifier
+Algoritmo utilizado: Random Forest Classifier
 
 ### 📈 Avaliação do Modelo
 
 Acurácia: 74.84%
 
-Matriz de Confusão: disponível no notebook
+Matriz de confusão
+![image](https://github.com/user-attachments/assets/07dc6738-1099-4910-acdf-1d12c9ee942c)
+
 
 ### 🎯 Predição
 
