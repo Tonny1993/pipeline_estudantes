@@ -1,5 +1,5 @@
 # 📊 Projeto de Machine Learning: Avaliação de Alunos na Turquia
-Este repositório apresenta um pipeline completo de aprendizado de máquina para análise e predição de avaliações estudantis na Turquia, com base no conjunto de dados TurkiyeStudentEvaluation.csv.
+Este repositório apresenta um pipeline completo de aprendizado de máquina para análise e predição de avaliações estudantis na Turquia, com base no conjunto de dados Turkiye Student Evaluation do kagglehub.
 
 ## 🚀 Visão Geral do Pipeline
 
@@ -43,7 +43,7 @@ Matriz de confusão
 Estimativa do número de repetições para um aluno específico.
 
 ## 🧪 Como Executar o Projeto
-Clone este repositório ou baixe os arquivos.
+Clone este repositório ou baixe o arquivo .ipynb.
 
 Instale os pacotes necessários com:
 
@@ -55,6 +55,5 @@ Execute o notebook `pipeline_estudantes.ipynb` em um ambiente Jupyter ou Google 
 
 ## 📁 Estrutura do Projeto
 
-- `TurkiyeStudentEvaluation.csv`: Conjunto de dados original.
 - `pipeline_estudantes.ipynb`: Notebook com toda a esteira de ML.
 - `README.md`: Este arquivo de documentação.
